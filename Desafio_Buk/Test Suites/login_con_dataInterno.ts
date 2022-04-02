@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>login_con_dataInterno</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>1d1e2491-6503-4588-8e94-fdea85039cbc</testSuiteGuid>
+   <testCaseLink>
+      <guid>e41d4e30-bf86-4892-9c5a-dd36a2392ade</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/test2</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>068b089e-133e-49de-8f00-45ded43c97b2</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DatosInterno/dato_interno</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>068b089e-133e-49de-8f00-45ded43c97b2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>90f936a8-6693-4a35-be72-979e282a359b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>068b089e-133e-49de-8f00-45ded43c97b2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>0e35e1b6-36d5-43bd-81c1-0d28b08bdfd7</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

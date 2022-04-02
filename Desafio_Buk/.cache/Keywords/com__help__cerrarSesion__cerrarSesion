@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "8743510C596683A0032FC272CCB9FE29",
+  "keywordClasses": [
+    {
+      "name": "com.help.cerrarSesion.cerrarSesion",
+      "keywordMethods": [
+        {
+          "name": "cerrar",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

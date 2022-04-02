@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "6B2C6777C90A71E1C4B5D324D786EA3F",
+  "keywordClasses": [
+    {
+      "name": "com.help.openYourStore.openYourStore",
+      "keywordMethods": [
+        {
+          "name": "open",
+          "parameters": [
+            {
+              "name": "url",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
